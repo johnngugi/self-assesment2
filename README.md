@@ -1,6 +1,6 @@
 # Self Assessment
 
-[This is a landing page for the upcoming movie: Doctor Strange](http://john-s-car-for-hire.bitballoon.com/)
+[This is a landing page for the upcoming movie: Doctor Strange](http://doctor-strange.bitballoon.com/)
 
 **Repo Link** https://github.com/johnngugi/self-assesment2
 
