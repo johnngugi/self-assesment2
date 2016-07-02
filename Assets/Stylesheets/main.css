@@ -1,0 +1,48 @@
+/*
+  ========================================
+  Grid
+  ========================================
+*/
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.container,
+.row {
+  margin: 0 auto;
+  width: 960px;
+}
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.row
+.column-1 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.column-1 {
+  display: inline-block;
+  vertical-align: top;
+}
+.column-1 {
+  width: 50%;
+}
+
+/*
+  ========================================
+  Styles
+  ========================================
+*/
+
+body {
+  background: black;
+  color: white;
+}
+header img {
+  width: 100%;
+}
